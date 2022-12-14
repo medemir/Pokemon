@@ -1,3 +1,3 @@
-# Pokemon
+> Streamlit first app
 
-> Hereby, I submitted the Pokemon game challenge Python scripts.
+> The Pokemon game challenge Python scripts.
